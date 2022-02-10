@@ -13,13 +13,13 @@
 @media (max-width: 720px) {
   .container {
     width: 500px;
-    font-size: 13px;
+    font-size: 14px;
   }
 }
 
 @media (max-width: 540px) {
   .container {
     width: 300px;
-    font-size: 10px;
+    font-size: 12px;
   }
 }
