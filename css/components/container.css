@@ -1,23 +1,22 @@
 .container {
-  width: 900px;
   margin: 20px auto;
-  }
+  width: 850px;
+}
 
-  @media (max-width: 960px) {
-    /* Para una pantalla < 960px, se leerá este CSS */
-    .container {
-      width: 700px;
-    }
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
   }
-  @media (max-width: 720px) {
-    /* Para una pantalla < 720px, se leerá este CSS */
-    .container {
-      width: 500px;
-    }
+}
+
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
   }
-  @media (max-width: 540px) {
-    /* Para una pantalla < 540px, se leerá este CSS */
-    .container {
-      width: 300px;
-    }
+}
+
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
   }
+}
