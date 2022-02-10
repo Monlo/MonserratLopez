@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Rowdies&display=swap');
+@import url("components/container.css");
+@import url("components/footer.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/avatar.css");
+@import url("components/card.css");
+@import url("components/shadow.css");
+
+body{
+  color: black;
+  background-color:#E7DED9;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+h1{
+  color:#394648;
+  font-size: 35px;
+  letter-spacing: 1px;
+  font-weight: bold;
+  line-height:100%;
+}
+
+h2{
+  color:#394648;
+  font-size: 25px;
+  font-weight: bold;
+  line-height:normal;
+}
+
+p{
+  color:#394648;
+  font-weight: 300;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 200px;
+  opacity: 0.9;
+  border-radius: 50%;
+  border: 5px solid grey;
+}
+

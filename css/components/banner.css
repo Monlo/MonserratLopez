@@ -1,0 +1,23 @@
+.banner {
+    color: white;
+    padding: 35px;
+    width: 800px;
+    margin: 20px auto;
+    background: #FFFFFF    ;
+    border-radius: 4px;
+    text-align: center;
+    box-shadow: 4px 4px 15px;
+    color: gray;
+}
+
+.banner:hover {
+    opacity: 1;
+}
+.banner h1 {
+    font-size: 26px;
+  }
+  
+.banner a {
+    margin-top: 10px;
+  }
+

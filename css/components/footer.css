@@ -1,0 +1,20 @@
+.footer i {
+    font-size: 32px;
+    color:#52688F;
+    opacity: 0.8;
+  }
+  
+  .footer {
+    list-style: none;
+    padding-left: 0px;
+  }
+  
+  .footer li {
+    display: inline;
+    margin: 10px;
+  }
+  
+  .footer i:hover {
+    color: black;
+  }
+  
