@@ -1,17 +1,20 @@
 .container {
-  width: 850px;
-  margin: 25px auto;
+  width: 800px;
+  margin: 30px auto;
   vertical-align: baseline;
+  height: auto;
 }
 
 @media (max-width: 720px) {
   .container {
     width: 500px;
+    font-size: 15px;
   }
 }
 
 @media (max-width: 540px) {
   .container {
     width: 300px;
+    font-size: 15px;
   }
 }
