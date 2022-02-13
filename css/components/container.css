@@ -1,6 +1,7 @@
 .container {
   width: 850px;
   margin: 25px auto;
+  vertical-align: baseline;
 }
 
 @media (max-width: 720px) {
