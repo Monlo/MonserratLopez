@@ -1,25 +1,18 @@
 .container {
-  margin: 20px auto;
+  margin: 50px auto;
   width: 850px;
-}
-
-@media (max-width: 960px) {
-  .container {
-    width: 700px;
-    font-size: 16px;
-  }
 }
 
 @media (max-width: 720px) {
   .container {
     width: 500px;
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 
 @media (max-width: 540px) {
   .container {
     width: 300px;
-    font-size: 12px;
+    font-size: 14px;
   }
 }
