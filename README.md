@@ -1,3 +1,2 @@
 # MonserratLopez
-Landig page using CSS and HTML.
-[Link](https://duckduckgo.com).
+[Personal landig page using CSS and HTML.](monlo.github.io/MonserratLopez).
